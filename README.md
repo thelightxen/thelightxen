@@ -5,6 +5,7 @@ Doing full-stack web development (Nest.js+Next.js), software development (C++/C#
 
 * My Website: [xenffly.com](https://xenffly.com)
 * GitLab: [@thelightxen](https://gitlab.com/thelightxen)
+* **LinkedIn: https://www.linkedin.com/in/xenffly/**
 
 ---
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
@@ -31,3 +32,9 @@ Doing full-stack web development (Nest.js+Next.js), software development (C++/C#
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<br />
+
+<div align="center">
+  <img src="https://gitlab.com/thelightxen/thelightxen/-/raw/main/%D0%BA%D1%81%D0%B5%D0%BD%D1%87%D0%B8%D0%BA.png?v2" />
+</div>
